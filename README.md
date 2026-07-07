@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=rakshiatgithub&label=Visitors&color=blueviolet&style=for-the-badge)
+
 # Hi, I'm Rakshitha R👋
 
 🎓 B.E. Computer Science & Artificial Intelligence (2022-2026) 8.89 CGPA
