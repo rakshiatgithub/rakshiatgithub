@@ -5,6 +5,8 @@
 💻 Skills
 - Java
 - Python
+- HTML, CSS, JavaScript, React.js, Bootstrap
+- Node.js, Express.js, EJS
 - SQL
 - Git & GitHub
 - MySQL
