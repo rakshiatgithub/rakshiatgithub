@@ -7,22 +7,20 @@
 💻 Skills
 - Java
 - Python
-- HTML, CSS, JavaScript, React.js, Bootstrap
+- HTML, CSS, JavaScript, Bootstrap
 - Node.js, Express.js, EJS
 - SQL
+- Linux
 - Git & GitHub
 - MySQL
 - MongoDB
-- CI/CD
-- Docker
-- Kubernetes
+
 
 🚀 Projects
 - Legal Document Summarization using RAG and LangChain
 - Multi-Agent LLM Research Assistant
 - Green Commute-Ride Sharing App
 - Smart Budgeting Assistant
-- Zerodha Stock Trading Portfolio System
 - CareerConnect Full-Stack Job Portal
 
 🏆 Experience
