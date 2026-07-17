@@ -21,7 +21,7 @@
 - Multi-Agent LLM Research Assistant
 - Green Commute-Ride Sharing App
 - Smart Budgeting Assistant
-- CareerConnect Full-Stack Job Portal
+
 
 🏆 Experience
 - AI Intern @ Infosys
