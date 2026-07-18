@@ -17,7 +17,7 @@
 
 
 🚀 Projects
-- Legal Document Summarization using RAG and LangChain
+- AI Based Legal Document Summarization using RAG and LangChain
 - Multi-Agent LLM Research Assistant
 - Green Commute-Ride Sharing App
 - Smart Budgeting Assistant
