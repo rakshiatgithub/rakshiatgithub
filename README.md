@@ -28,7 +28,7 @@
 - AI Intern @ Infosys
 - WEB Developement Intern @ Inventeron Technologies pvt ltd
 - AI Trainee @ SystemTron
-
-📫 Reach Me
-LinkedIn: [](linkedin.com/in/rakshitha-r-673611293)
+- 
+## 📫 Reach Me
+[LinkedIn](https://www.linkedin.com/in/rakshitha-r-673611293/)
 Email: rakshitha73490@gmail.com
