@@ -17,8 +17,8 @@
 
 
 🚀 Projects
-- AI Based Legal Document Summarization using RAG and LangChain
-- Multi-Agent LLM Research Assistant
+- [AI Based Legal Document Summarization using RAG and LangChain](https://github.com/rakshiatgithub/Info_project)
+- [Multi-Agent LLM Research Assistant](https://github.com/rakshiatgithub/multi-agent-ai)
 - [Green Commute – Ride Sharing App](https://github.com/rakshiatgithub/sustainable-ride-sharing)
 - Smart Budgeting Assistant
 
