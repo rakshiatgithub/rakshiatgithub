@@ -30,5 +30,5 @@
 - AI Trainee @ SystemTron
 - 
 ## 📫 Reach Me
-[LinkedIn](https://www.linkedin.com/in/rakshitha-r-673611293/)
+Linkedin: [LinkedIn](https://www.linkedin.com/in/rakshitha-r-673611293/)
 Email: rakshitha73490@gmail.com
